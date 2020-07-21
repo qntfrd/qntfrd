@@ -9,4 +9,4 @@ Oh! and welcome to [my github](https://github.com/qfoooo?tab=repositories&type=s
 
 Cheers :heart:
 
-[![qfoooo Page Views](http://hits.dwyl.com/qfoooo/qfoooo.svg)](https://github.com/qfoooo)
+[![Profile views](https://gpvc.arturio.dev/qfoooo)](https://github.com/qfoooo)
