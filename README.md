@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**qfoooo/qfoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚚 I'm currently working as a tech lead at [Trusk](https://trusk.com), a lastmile delivery plaform
+- &omega; I'm the founder of [little &omega; omega](https://little-omega.com), a software editor company that work on super cool and super secret project :detective:
+- :teacher: I'm a lecturer at the school I attended, training the next generation of developpers
+- ⭐ I star _a lot_ of repositories across github, as a way to bookmark them 😛
+- 📇 Here are my [LinkedIn](https://linkedin.com/in/forandquentin) and [Website](https://quentin.forand.fr) (I'll add a blog **someday** ;) )
 
-Here are some ideas to get you started:
+Oh! and welcome to [my github](https://github.com/qfoooo?tab=repositories&type=source)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cheers :heart:
+
+[![qfoooo Page Views](http://hits.dwyl.com/qfoooo/qfoooo.svg)](https://github.com/qfoooo)
