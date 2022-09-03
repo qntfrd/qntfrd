@@ -1,12 +1,9 @@
 # Hello there 👋
 
-- 🚚 I'm currently working as a tech lead at [Trusk](https://trusk.com), a lastmile delivery plaform
-- &omega; I'm the founder of [little &omega; omega](https://little-omega.com), a software editor company that work on super cool and super secret project :detective:
-- :teacher: I'm a lecturer at the school I attended, training the next generation of developpers
+- <img src="https://user-images.githubusercontent.com/1637101/188271829-5d4d2abf-a1a3-4c54-969f-cf6bb3be9275.png" height="18px"/>I'm the CTO of [Cyrius](https://cyrius.co), a startup working hard on reducing the human risk regarding cybersecurity
+- :teacher: I'm a lecturer at the [Epitech](https://epitech.eu), the school I attended, training the next generation of developpers
 - 📇 Here are my [LinkedIn](https://linkedin.com/in/forandquentin) and [Website](https://quentin.forand.fr) (I'll add a blog **someday** ;) )
 
-Oh! and welcome to [my github](https://github.com/qfoooo?tab=repositories&type=source)!
+Oh! and welcome to [my github](https://github.com/qntfrd?tab=repositories&type=source)!
 
 Cheers :heart:
-
-[![Profile views](https://gpvc.arturio.dev/qfoooo)](https://github.com/qfoooo)
