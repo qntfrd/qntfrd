@@ -8,7 +8,7 @@
 
 Oh and I am building one micro app a week starting **NOW** (2024-05-13 - 24W20)
 
-## µApp
+<!--## µApp
 
 I'm building one µApp a week.
 Every month I select one that I'll keep iterating on, and every quarter, and every year...
