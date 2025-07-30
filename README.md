@@ -2,7 +2,7 @@
 
 - <img src="https://little-omega.net/favicon.ico" height="18px"/> I'm the CTO of [Little Omega](https://little-omega.com), expert in SaaS & mobile app development
 - :teacher: I'm a lecturer at [Epitech](https://epitech.eu) (the school I attended) and at [OClock](https://oclock.io), training the next generation of developpers
-- 📇 Here are my [LinkedIn](https://linkedin.com/in/forandquentin) and [Website](https://quentin.forand.fr) (I'll add a blog **someday** ;) )
+- 📇 Here is my [LinkedIn](https://linkedin.com/in/forandquentin) <!--and [Website](https://quentin.forand.fr) (I'll add a blog **someday** ;) )-->
 
 <!-- I also do coaching for technical leaders [book a intro call](https://calendly.com/qforand/coaching)-->
 
