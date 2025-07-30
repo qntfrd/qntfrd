@@ -4,7 +4,7 @@
 - :teacher: I'm a lecturer at [Epitech](https://epitech.eu) (the school I attended) and at [OClock](https://oclock.io), training the next generation of developpers
 - 📇 Here are my [LinkedIn](https://linkedin.com/in/forandquentin) and [Website](https://quentin.forand.fr) (I'll add a blog **someday** ;) )
 
-- I also do coaching for technical leaders [book a intro call](https://calendly.com/qforand/coaching)
+<!-- I also do coaching for technical leaders [book a intro call](https://calendly.com/qforand/coaching)-->
 
 <!--Oh and I am building one micro app a week starting **NOW** (2024-05-13 - 24W20)-->
 
