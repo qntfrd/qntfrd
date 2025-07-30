@@ -6,7 +6,7 @@
 
 - I also do coaching for technical leaders [book a intro call](https://calendly.com/qforand/coaching)
 
-Oh and I am building one micro app a week starting **NOW** (2024-05-13 - 24W20)
+<!--Oh and I am building one micro app a week starting **NOW** (2024-05-13 - 24W20)-->
 
 <!--## µApp
 
